@@ -1,2 +1,2 @@
 let str = "zzzzyzz";
-console.log(str.includes("y") ? 'Нашел' : "потерялся")
+console.log(str.includes("y") ? 'нашел' : "заблудился")
