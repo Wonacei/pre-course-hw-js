@@ -31,7 +31,6 @@ const users3 = [
     },
 ];
 
-// isMarried: true
 
 users3.forEach(user => user.isMarried = true)
 console.log(users3)
